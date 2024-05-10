@@ -18,4 +18,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BokyungisaGod&layout=compact&theme=dracula)
 
 <h2 align="center">⋆｡ﾟ✶°💜 contact me 💜⋆｡ﾟ✶°</h2>
-<p align="center"><a href="https://velog.io/@_am1024/posts"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://velog.io/@_am1024/posts"/></a>  <a href="mailto:krr1355@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krr1355@naver.com"/></a></p>
+<p align="center"><a href="https://velog.io/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://velog.io/@_am1024/posts"/></a>  <a href="mailto:krr1355@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krr1355@naver.com"/></a></p>
