@@ -1,19 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=BokyungisaGod&fontSize=75)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=900&lines=Hi%2C+I'm+Bokyung%F0%9F%A6%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=900&lines=I+wanna+be+a+developer%F0%9F%90%A3)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokyungisaGod&count_bg=%23FFDAFE&title_bg=%23F6B1F2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bokyung&label=Profile%20views&color=CEF6F5&style=flat" alt="bokyung" /> </p>
 
-🌱 I’m currently learning **Unity, Python, AL**
 
 👨‍💻 All of my projects are available at [github.com/BokyungisaGod](github.com/BokyungisaGod)
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Languages and Tools**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BokyungisaGod&layout=compact&theme=dracula)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-C%23-CEE3F6?logo=Csharp&style=flat-square&logo=C Sharp&logoColor=white"></a>
+<br/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<br/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenAI-21610B?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white"/></a>
+<br/>
+<br/>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
